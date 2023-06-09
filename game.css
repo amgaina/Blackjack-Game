@@ -1,0 +1,28 @@
+h1{
+    color: rgb(203, 185, 85);
+
+}
+body{
+    background-color: green;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: rgb(219, 204, 204);
+    font-weight: bold;
+    font-style:italic;
+}
+button{
+    width: 300px;
+    height: 90px;
+    font-size: 40px;
+    background-color: rgb(211, 211, 46);
+    color: green;
+    border: none;
+    margin: 10px;
+}
+button:hover{
+    opacity: tansition 1s;
+    color: red;
+    cursor: pointer;
+
+}
